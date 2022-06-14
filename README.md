@@ -31,10 +31,17 @@ Asset Range – OTC is the perfect way to trade NFTs, which do not have publicly
 The development roadmap is as follows
 
 Developing an Escrow Contract for enabling OTC Trading (Rust)
+
 Developing the encrypted messaging protocol to enable messaging (Rust)
+
 Messaging & File transfers
+
 Identity Sharing & Asset Trading
+
 Developing UI for sending and receiving messages (React JS)
+
 SWS token incentivization for running messaging nodes on Swish
+
 Cross Chain Messaging for wallets
+
 The team is actively looking to hire developers to help pursue this objective
